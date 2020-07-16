@@ -1,0 +1,28 @@
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBE.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBE.pdb
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.csprojResolveAssemblyReference.cache
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBE.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBE.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.csprojAssemblyReference.cache
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.csproj.CopyComplete
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBE.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartBE.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.csprojResolveAssemblyReference.cache
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb

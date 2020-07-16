@@ -1,0 +1,22 @@
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartBE.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartBE.pdb
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.csprojResolveAssemblyReference.cache
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+c:\users\trainee\documents\visual studio 2013\Projects\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartBE.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartBE.pdb
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.csprojAssemblyReference.cache
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.csproj.CopyComplete
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+C:\Users\Upadhye\source\repos\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartBE.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\bin\Debug\ShoppingCartBE.pdb
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.csprojResolveAssemblyReference.cache
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+C:\Users\trainee\Desktop\shared\ShoppingCartWebApp1.Solution\ShoppingCartWebApp.Solution\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb
